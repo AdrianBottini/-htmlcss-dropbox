@@ -51,7 +51,7 @@ main {
     border: none;
 }
 
-a {
+.nav-a {
     text-decoration: none;
     color: black;
 }
@@ -111,6 +111,7 @@ h1 {
 
 h2 {
     font-size: 50px;
+    margin-bottom: 50px;
 }
 
 .input {
@@ -223,20 +224,41 @@ h2 {
     display: flex;
     gap: 30px;
     flex-wrap: wrap;
+    justify-content: space-around;
     
 }
 
 .img2 {
     width: 300px;
 }
-.section4a {
-    width: 20%;
+.sezione4a {
+    width: 25%;
 }
 
-.section4b {
-    width: 20%;
+.sezione4b {
+    width: 25%;
 }
 
-.section4c {
-    width: 20%;
+.sezione4c {
+    width: 25%;
 }
+
+.sezione4d {
+    width: 25%;
+}
+
+.sezione4e {
+    width: 25%;
+}
+
+.sezione4f {
+    width: 25%;
+}
+
+.section5 {
+    max-width: 900px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: left;
+}
+
