@@ -124,9 +124,8 @@ h2 {
 
 .colonne {
     display: flex;
-    gap: 10rem;
+    gap: 1rem;
     margin-top: 50px;
-    justify-content: space-around;
 }
 
 .singolo {
