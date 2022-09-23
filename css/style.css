@@ -112,3 +112,25 @@ h1 {
 h2 {
     font-size: 50px;
 }
+
+.input {
+    margin-top: 50px;
+    font-size: large;
+}
+
+.mensile {
+    margin-left: 30px;
+}
+
+.colonne {
+    display: flex;
+    gap: 10rem;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+.singolo {
+    border: black 1px solid;
+    text-align: center;
+    padding: 10px;
+}
