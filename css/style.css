@@ -221,10 +221,9 @@ h2 {
 
 .sezione-4 {
     display: flex;
-    gap: 40px;
+    gap: 30px;
     flex-wrap: wrap;
     
-
 }
 
 .img2 {
