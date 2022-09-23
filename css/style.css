@@ -35,7 +35,7 @@ main {
     margin-left: 20px;
 }
 
-li {
+.li-header {
     display: inline-block;
     padding: 5px;
     margin-top: 15px;
@@ -118,6 +118,16 @@ h2 {
     font-size: large;
 }
 
+.padding {
+    margin-bottom: 20px;
+}
+
+.v {
+    list-style: inside;
+    text-align: left;
+    list-style-image: url('');
+}
+
 .mensile {
     margin-left: 30px;
 }
@@ -129,7 +139,30 @@ h2 {
 }
 
 .singolo {
-    border: black 1px solid;
+    border: grey 1px solid;
     text-align: center;
     padding: 10px;
+}
+
+.section2 {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.section-due {
+    border: grey 1px solid;
+    text-align: center;
+    padding: 10px;
+}
+
+.sezione-due {
+    border-left: grey 1px solid;
+    border-right: grey 1px solid;
+    border-bottom: grey 1px solid;
+}
+
+.contatta {
+    display: inline-block;
 }
