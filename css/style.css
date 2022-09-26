@@ -268,7 +268,7 @@ h2 {
 }
 
 .sezione6a {
-    width: 600px;
+    width: 50%;
     display: flex;
     flex-wrap: wrap;
     margin-top: 100px;
@@ -294,10 +294,11 @@ h2 {
 
 .d {
     background-color: red;
+    
 }
 
 .sezione6b {
-    width: 400px;
+    width: 50%;
     margin-top: 100px;
     background-color: lightgray;
     margin-left: 50px;
@@ -305,7 +306,7 @@ h2 {
 }
 
 .sezione6c {
-    width: 600px;
+    width: 50%;
     display: flex;
     flex-wrap: wrap;
     margin-top: 100px;
@@ -317,6 +318,7 @@ h2 {
     padding-top: 100px;
     padding-bottom: 100px;
     background-color: #00BFFF;
+    align-items: center;
 }
 
 .brown {
