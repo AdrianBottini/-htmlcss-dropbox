@@ -308,12 +308,50 @@ h2 {
 
 .div-1a {
     width: 50%;
-    aspect-ratio: 1/1
+    aspect-ratio: 1/1;
+    background-color: lightgreen;
+}
+
+.div-1ab {
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: brown;
 }
 
 .div-1b {
     width: 50%;
-    aspect-ratio: 1/1
+    aspect-ratio: 1/1;
+    background-color: #00BFFF;
+}
+
+.div-1ba {
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: red;
+}
+
+.div-3a {
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: darkred;
+}
+
+.div-3ab {
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: lightblue;
+}
+
+.div-3b {
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: darkblue;
+}
+
+.div-3ba {
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: yellow;
 }
 
 .section7 {
