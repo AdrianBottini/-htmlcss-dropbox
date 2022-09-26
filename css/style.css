@@ -394,3 +394,7 @@ footer {
 .padding-footer {
     padding: 10px;
 }
+
+.h-3 {
+    font-size: 30px;
+}
