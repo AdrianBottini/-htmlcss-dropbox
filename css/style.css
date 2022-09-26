@@ -282,20 +282,23 @@ h2 {
 
 .a {
     background-color: lightgreen;
+    width: 50%;
+
 }
 
 .b {
     background-color: darkred;
+    width: 50%;
 }
 
 .c {
     background-color: cornflowerblue;
-
+    width: 50%;
 }
 
 .d {
     background-color: red;
-    
+    width: 50%;
 }
 
 .e {
