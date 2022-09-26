@@ -302,6 +302,20 @@ h2 {
     height: 50%;
 }
 
+.flex {
+    display: flex;
+}
+
+.div-1a {
+    width: 50%;
+    aspect-ratio: 1/1
+}
+
+.div-1b {
+    width: 50%;
+    aspect-ratio: 1/1
+}
+
 .section7 {
     display: flex;
     justify-content: space-around;
