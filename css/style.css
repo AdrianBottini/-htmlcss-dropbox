@@ -310,59 +310,91 @@ h2 {
     width: 50%;
     aspect-ratio: 1/1;
     background-color: lightgreen;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .div-1ab {
     width: 50%;
     aspect-ratio: 1/1;
     background-color: brown;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .div-1b {
     width: 50%;
     aspect-ratio: 1/1;
     background-color: #00BFFF;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .div-1ba {
     width: 50%;
     aspect-ratio: 1/1;
     background-color: red;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .div-3a {
     width: 50%;
     aspect-ratio: 1/1;
     background-color: darkred;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .div-3ab {
     width: 50%;
     aspect-ratio: 1/1;
     background-color: lightblue;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .div-3b {
     width: 50%;
     aspect-ratio: 1/1;
     background-color: darkblue;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .div-3ba {
     width: 50%;
     aspect-ratio: 1/1;
     background-color: yellow;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.img-6a{
+    padding: 20px;
 }
 
 .img-6 {
     width: 100%;
+    filter: invert(1);
+}
+
+.lorem {
+    padding: 10px;
 }
 
 .section7 {
     display: flex;
     justify-content: space-around;
     padding-top: 100px;
-    margin-top: 100px;
     padding-bottom: 100px;
     background-color: #00BFFF;
     align-items: center;
